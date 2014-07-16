@@ -54,9 +54,10 @@ body {
 }
 
 #headerimg {
-  background-image: url("images/dumplings.jpg");
+  background-image: url("images/Bigstock_55263317.jpg");
   background-size: cover;
   min-height: 300px;
+  margin-bottom: 30px;
 }
 
 #orderbtn, .col-sm-5 {
